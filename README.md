@@ -1,6 +1,7 @@
 # Projects git_kaulins
 
  ![Metama kaulina attels] (http://clipart-library.com/images/BTgKdK6Ec.jpg)
+ 
 Darāmo darbu sarakss
  Uzsākts lokāli Java projekts un veikta sākotnējās versijas versionēšana
  Izveidots personīgais GitHub konts
